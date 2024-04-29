@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A passionate software engineering from Spain</h3>
+<h3 align="center">A passionate software engineering from Spain, deeply interested in distributed systems programming.</h3>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcamposforner&" alt="jcamposforner" />
