@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Jesus, I'm a passionate software engineering, from Spain<br></p>
+<p align="left">I'm Jesus, I'm a passionate software engineer, from Spain<br></p>
 
 ###
 
