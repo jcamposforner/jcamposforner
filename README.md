@@ -39,22 +39,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jcamposforner&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jcamposforner" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcamposforner" height="150" alt="stats graph"  />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jcamposforner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jcamposforner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcamposforner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="stats graph"  />
-  </picture>
-  </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcamposforner/jcamposforner/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcamposforner/jcamposforner/output/snake.svg" />
